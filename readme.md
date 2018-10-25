@@ -1,4 +1,5 @@
 #Validation Linux
+
 ### Problème rencontrées 
 <p>1er problème --> Comment vérifier que le paquet est bien installé ? (RESOLU)</p>
 <p>2ème problème --> HEUREUSEMENT déjà rencontré avant et passé pas mal de temps dessus...
