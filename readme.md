@@ -2,9 +2,9 @@
 ### Problème rencontrées 
 <p>1er problème --> Comment vérifier que le paquet est bien installé ? (RESOLU)</p>
 <p>2ème problème --> HEUREUSEMENT déjà rencontré avant et passé pas mal de temps dessus...
-TGCM -> effacer recopier la ligne (if pour se connecter à la vagrant)</p>
+TGCM -> effacer recopier la ligne (if pour se connecter à la vagrant) (RESOLU)</p>
 <p>3ème problème --> Retour d'erreur (sed: -e expression #1, char 3:unterminated `s' command) mais la commande fonctionne quand même
-, les datas sont bien remplacés dans Vagrantfile.</p>
+, les datas sont bien remplacés dans Vagrantfile.(RESOLU)</p>
 
 ### Ajout d'options
 <p>-Si le user ne veut pas up la vagrant il a le choix de quitter le script ou de le redémarrer.</p>
